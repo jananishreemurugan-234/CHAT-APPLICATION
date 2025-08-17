@@ -1,3 +1,5 @@
+# CHAT-APPLICATION
+
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: M.JANANI SHREE
@@ -10,11 +12,9 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
-# CHAT-APPLICATION
+## TASK DESCRIPTION
 
-# Simple Real-Time Chat Application  
-
-## Project Overview  
+## Overview  
 This project is a **simple real-time chat application** built with **Node.js, Express, and Socket.IO**. The main purpose of this application is to demonstrate how real-time communication works on the web using WebSockets. Unlike traditional web applications where a page must be refreshed to update content, this app allows messages to be sent and received instantly between multiple clients.  
 
 To keep the project simple and beginner-friendly, the application is designed so that if you open it in **two different tabs** (or browsers), you can type a message in one tab, and it will immediately appear in the other tab. This shows the power of WebSocket-based communication and how data is broadcast to all connected clients without delay.  
