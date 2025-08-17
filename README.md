@@ -60,4 +60,6 @@ This chat application is a beginner-friendly project that demonstrates the funda
 
 Although minimal in design, the app provides a strong foundation for building more complex real-time systems. Developers can expand it with authentication, chat rooms, message persistence, or even video calls. This makes it an excellent first step into the world of real-time web applications and a valuable addition to any developer’s portfolio.
 
+## Output
+
 <img width="1690" height="1109" alt="Screenshot 2025-08-15 190707" src="https://github.com/user-attachments/assets/580f4cdc-b1a7-47d8-9efe-2ef957e4a45a" />
